@@ -1,0 +1,87 @@
+.header {
+    margin-left: 1292px;
+    margin-right: 8px;
+    margin-top: 0px;
+    
+}
+
+#gmail, #images {
+    margin-right: 3px;
+}
+#appsbutton {
+    width: 20px;
+    height: 20px;
+    margin-left: 4px;
+    margin-right: 1px;
+    padding-top: 10px;
+}
+#my {
+    width: 35px;
+    height: 35px;
+    margin-left: 4px;
+    margin-right: 1px;
+    padding-top: 10px;
+}
+a   {
+    text-decoration: none;
+    color: rgb(65, 65, 248);
+}
+/* ilk Kısım bitti */
+
+.container {
+    text-align: center;
+    margin: 100px;
+}
+
+.inputwrapper   {
+    background: #fff;
+    display: flex;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    z-index: 3;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: -77px;
+    width: 600px;
+}
+#voice  {
+    margin-left: auto;
+    margin-right: 1px;
+}
+
+#googlesearch   {
+    text-align: center;
+    margin-top: 5px;
+    line-height: 50px;
+    min-width: 65px;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 4px;
+}
+
+.footer {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    border: 1px solid #89b2d3;
+    border-top: 1px solid #9cb0bb;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+}
+
+.footer1    {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+}
+/* footer end */
